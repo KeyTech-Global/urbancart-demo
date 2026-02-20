@@ -168,7 +168,7 @@ This project is created by **KeyTech Global** for demonstration purposes.
 
 <div align="center">
 
-<sub>Built by KeyTech Global · © 2024 All Rights Reserved</sub>  
+<sub>Built by KeyTech Global · © 2026 All Rights Reserved</sub>  
 <br>
 <sub>⚡ Transforming Retail Dreams into Digital Reality ⚡</sub>
 
